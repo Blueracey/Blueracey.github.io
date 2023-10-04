@@ -2,27 +2,13 @@ h3{
   Color:black;
   }
 
-.flex-container {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
+
+flexcontainer{
+  Display: Flex
+  align-item:center
 }
 
-div {
-    background-color: #bebebe;
-    border: 1px solid grey;
-    border-radius: 0.05rem;
-    margin: 0.1rem;
-    font-size: 24pt;
-}
-
-div:nth-of-type(3) {
-    align-self: flex-end;
-    order: -1;
-}
-
-nav {
-    border: 1px solid #000;
-    height: 250px;
-}
-
+nav{
+  Backgroudcoulor: rgb(128, 128, 128);
+  border: 1px solid rgb(14, 38, 172);     
+  border-radius: 0.05rem;
