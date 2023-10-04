@@ -14,11 +14,11 @@ nav
   Backgroudcoulor: rgb(128, 128, 128);
   border: 1px solid aqua;     
   border-radius: 0.05rem;}
-
+    flex: 1 200px
 
 Ul {
     margin: 5px;
-    flex: 1 auto;
+    flex: 1 10px
     font-size: 18px;
     line-height: 1.5;
 }
