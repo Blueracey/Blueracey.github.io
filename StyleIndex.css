@@ -7,7 +7,7 @@ html{
   background-color: Purple;
 }
 
-Nav{display:flex; Flex-wrap: wrap;
+Wrapper{display:flex; Flex-wrap: wrap;
      background-color: #f1f1f1;
   margin: 10px;
   padding: 20px;
