@@ -10,7 +10,6 @@ flexcontainer{
 }
 
 nav
-  flex: 1 100px;
   Backgroudcoulor: rgb(128, 128, 128);
   border: 1px solid rgb(14, 38, 172);     
   border-radius: 0.05rem;}
