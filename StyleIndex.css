@@ -1,14 +1,28 @@
 h3{
-  Color:red;
+  Color:black;
   }
 
+.flex-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
 
-Wrapper{display:flex; Flex-wrap: wrap;
-     background-color: #f1f1f1;
-  margin: 10px;
-  padding: 20px;
-  font-size: 30px;
-Ul{Flex: 15rem;}
+div {
+    background-color: #bebebe;
+    border: 1px solid grey;
+    border-radius: 0.05rem;
+    margin: 0.1rem;
+    font-size: 24pt;
+}
 
+div:nth-of-type(3) {
+    align-self: flex-end;
+    order: -1;
+}
 
-       }
+nav {
+    border: 1px solid #000;
+    height: 250px;
+}
+
