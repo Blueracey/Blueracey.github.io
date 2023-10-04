@@ -6,6 +6,7 @@ h3{
 flexcontainer{
   Display: Flex
   align-item:center
+      justify-content: space-between;
 }
 
 nav{
