@@ -6,3 +6,5 @@ h3{
 html{
   background-color: Purple;
 }
+
+nav{display:flex; }
