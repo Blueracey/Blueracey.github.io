@@ -7,4 +7,5 @@ html{
   background-color: Purple;
 }
 
-Ul{display:flex;}
+Nav{display:flex; Flex-wrap: wrap;}
+Ul{Flex: 15rem;}
