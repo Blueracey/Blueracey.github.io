@@ -3,10 +3,6 @@ h3{
   }
 
 
-html{
-  background-color: Purple;
-}
-
 Wrapper{display:flex; Flex-wrap: wrap;
      background-color: #f1f1f1;
   margin: 10px;
