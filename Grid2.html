@@ -10,6 +10,12 @@
   grid-template-columns: auto auto auto;
   background-color:grey;
   padding: 10px;
+ grid-template area:
+  "header Header"
+ "sidebar  content"
+ "Footer footer";
+ Grid-template-columns:1fr   3fr;
+ gap:20px;
 }
 .grid-item {
   background-color: purple;
@@ -23,7 +29,7 @@
 </style>
 <div class="grid-container">
 
-}
+
    <div class="grid-item">1</div>
   <div class="grid-item">2</div>
   <div class="grid-item">3</div>
